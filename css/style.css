@@ -69,6 +69,10 @@ footer{
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
+#grid{
+    background-image: url(../assets/images/Term1-Grid.png);
+}
+
 #metastasis{
     background-image: url(../assets/images/Term1-Metastasis.png);
 }
