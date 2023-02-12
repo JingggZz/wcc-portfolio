@@ -65,7 +65,7 @@ footer{
     align-items: center;
     text-align: center;
     text-decoration: none;
-    color:#4f4f4f;
+    color:#4a4848;
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
@@ -83,6 +83,10 @@ footer{
 
 #metastasis{
     background-image: url(../assets/images/Term1-Metastasis.png);
+}
+
+#week1{
+    background-image: url(../assets/images/Term2-Week1.png);
 }
 
 #week2{
