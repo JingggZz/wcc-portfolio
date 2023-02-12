@@ -73,10 +73,21 @@ footer{
     background-image: url(../assets/images/Term1-Grid.png);
 }
 
+#circle-and-lines{
+    background-image: url(../assets/images/Term1-Circle-and-Lines.png);
+}
+
+#space-of-random{
+    background-image: url(../assets/images/Term1-Space-of-Random.png);
+}
+
 #metastasis{
     background-image: url(../assets/images/Term1-Metastasis.png);
 }
 
+#week2{
+    background-image: url(../assets/images/Term2-Week2.png);
+}
 
 /* want a different background image for each project? */
 /* try give each a tag a unique id in your HTML and then set different background images here*/
