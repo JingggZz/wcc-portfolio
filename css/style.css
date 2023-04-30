@@ -8,15 +8,29 @@ body{
 
 h1{
     font-size: 30px;
-    
+    margin:20px 0;
+}
+
+h2{
+    font-size: 20px;
+    margin: 0px 0px 40px 0px;
+    font-weight: normal;
+    font-style: italic;
 }
 
 p{
     font-size: 16px;
+    line-height: 1.6em;
+    margin: 2.5em 0;
+    font-family: Helvetica, sans-serif;
 }
 
 header{
-    padding:0 3%;
+    width:100%;
+    max-width:1400px; /* means it won't be larger than 1200px on larger screens */
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 30px 3%;
 }
 
 main{
